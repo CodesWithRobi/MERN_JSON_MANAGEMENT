@@ -1,0 +1,20 @@
+{
+  "name": "mern_json_management",
+  "version": "1.0.0",
+  "description": "crud operations on json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesWithRobi/MERN_JSON_MANAGEMENT.git"
+  },
+  "author": "Robinson J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodesWithRobi/MERN_JSON_MANAGEMENT/issues"
+  },
+  "homepage": "https://github.com/CodesWithRobi/MERN_JSON_MANAGEMENT#readme",
+  "type": "module"
+}
