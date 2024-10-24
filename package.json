@@ -16,5 +16,8 @@
     "url": "https://github.com/CodesWithRobi/MERN_JSON_MANAGEMENT/issues"
   },
   "homepage": "https://github.com/CodesWithRobi/MERN_JSON_MANAGEMENT#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }

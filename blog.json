@@ -1,10 +1,1 @@
-[
-  {
-    "id": 1,
-    "data": "vanakam"
-  },
-  {
-    "id": 2,
-    "data": "hello"
-  }
-]
+[{"id":1,"title":"Title 1","data":"vanakam"},{"id":2,"title":"Title 2","data":"viva"}]
